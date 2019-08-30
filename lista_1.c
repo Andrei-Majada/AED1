@@ -1,3 +1,4 @@
+/*andrei schneider majada*/
 #include <stdio.h>
 #include <stdlib.h>
 
